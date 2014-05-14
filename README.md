@@ -3,7 +3,7 @@ Influential Factors of Posts’ Popularity Differences in Reddit
 
 Introduction:
 ----
-My research topic is Influential Factors of Posts’ Popularity differences in Reddit. From Wikipedia, Reddit is a social news and entertainment website where regis- tered users submit content. Content entries are organized by areas of interest called ’subreddits’. I am going to change the mind of Authors and Readers of Reddit. I want to help the authors know which factors related to a post have impact on the differences among popularity (scores) of these 2,500 already popular SubReddits. Factors are such as posted time, the author and number of comments. Therefore, I could give the authors suggestions to make their posts more popular. Similarly, for the readers, I could recommend more popular posts to them.
+The research topic is Influential Factors of Posts’ Popularity differences in Reddit. From Wikipedia, Reddit is a social news and entertainment website where regis- tered users submit content. Content entries are organized by areas of interest called ’subreddits’. I am going to change the mind of Authors and Readers of Reddit. I want to help the authors know which factors related to a post have impact on the differences among popularity (scores) of these 2,500 already popular SubReddits. Factors are such as posted time, the author and number of comments. Therefore, I could give the authors suggestions to make their posts more popular. Similarly, for the readers, I could recommend more popular posts to them.
 
 Questions to Answer:
 ----
