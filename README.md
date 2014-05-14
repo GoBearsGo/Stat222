@@ -32,3 +32,5 @@ How to Use the Code:
 1. Download the dataset to your local disk. You can access the dataset here: https://github.com/umbrae/reddit-top-2.5-million
 2. Download the ipynb file and run it in ipython notebook
 3. For description of the dataset please refer "data_description.pdf"
+<br/><br/>
+<em>Some parts of the code may run very slow because they need to process over 2 million posts' data! </em>
